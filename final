@@ -7,4 +7,5 @@ to help him to make a more informed decision about his restaurant.
 
 Data section
 
-The Foursquare location data will be used to solve this problem.
+The Foursquare location data will be used to solve this problem. This project will mainly use the 'explore' endpoint to obtain a general 
+idea of the categories and the locations of different restaurants in the Melbourne CBD.
