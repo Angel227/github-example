@@ -1,1 +1,10 @@
+Introduction/Business Problem
 
+A client is interested in opening a restaurant in the Melbourne CBD, however he is unsure about which type of cuisine he should offer, as
+well as the location of his restaurant.
+He would like to have a visual representation of how different types of restaurants are distributed in the Melbourne CBD in order
+to help him to make a more informed decision about his restaurant.
+
+Data section
+
+The Foursquare location data will be used to solve this problem.
